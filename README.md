@@ -1,4 +1,4 @@
-# Google-Data-Aanalytics-Captone-Project
+# Google-Data-Aanalytics-Captone-Bike-share analysis
 ## Introduction
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you will perform many real-world tasks of a junior
 data analyst. You will work for a fictional company, Cyclistic, and meet different characters and team members. In order to
